@@ -1,4 +1,4 @@
-let antimatter = 10;
+let antimatter = 100000000000;
 let antimattergenerator1 = 0;
 let cost1 = 10;
 let mulitiplergenerator1 = 0.5;
