@@ -1,0 +1,30 @@
+body {
+    background: red;
+}
+
+p {
+    color: gold;
+    font-family: Comic Sans MS;
+}
+
+h2 {
+    color: gold;
+    font-family: Comic Sans MS;
+}
+
+h1 {
+    color: gold;
+    font-family: Comic Sans MS;
+}
+
+button {
+    background-color: darkred;
+    color: white;
+    font-family: Comic Sans MS;
+}
+
+input {
+    background-color: darkred;
+    color: white;
+    font-family: Comic Sans MS;
+}
